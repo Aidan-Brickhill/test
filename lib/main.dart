@@ -10,7 +10,7 @@ void main() {
           ),
         ),
         body: const Center(
-          child: Text("Hello but in a body"),
+          child: Text("Hello"),
         ),    
       ),
     ),
