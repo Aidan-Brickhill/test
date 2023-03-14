@@ -1,4 +1,5 @@
 # test
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+test kwiz
+>>>>>>> c0c63f25cd635346d628f949dc14e6846b226d99
